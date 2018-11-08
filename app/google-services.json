@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "542023079587",
+    "firebase_url": "https://fir-intro-b62d4.firebaseio.com",
+    "project_id": "fir-intro-b62d4",
+    "storage_bucket": "fir-intro-b62d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542023079587:android:a4b77578f97e84d9",
+        "android_client_info": {
+          "package_name": "com.example.a1107516259.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542023079587-rh4919gmocksdvddti97igmvaj982ehv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1107516259.firebaseintro",
+            "certificate_hash": "2b7aaa116c079c7aaac3c241a86017a07f047aa0"
+          }
+        },
+        {
+          "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLY13RBiqho4wXoF7hObZksdW8T67rC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542023079587:android:0a896b388c55e377",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.ejercicio_listas_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542023079587-5bergdha36r4rj6ftr6j0regpcl0fnno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.ejercicio_listas_firebase",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLY13RBiqho4wXoF7hObZksdW8T67rC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542023079587:android:30ca512c670f6aa3",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.ejercicioregistro_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542023079587-jgj7spj1bqc0jq8cg9mav2t89vnd75ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.ejercicioregistro_firebase",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLY13RBiqho4wXoF7hObZksdW8T67rC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542023079587:android:dc099f73370f5882",
+        "android_client_info": {
+          "package_name": "com.example.firebase_listas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542023079587-4t0af9cd8bnmdjb82d2e2kd90ed0mo9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_listas",
+            "certificate_hash": "2b7aaa116c079c7aaac3c241a86017a07f047aa0"
+          }
+        },
+        {
+          "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLY13RBiqho4wXoF7hObZksdW8T67rC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542023079587-123tv2oasfkihd6hfic2af66e2sd4d0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
